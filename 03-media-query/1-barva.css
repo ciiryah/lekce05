@@ -1,0 +1,15 @@
+.barva {
+background-color: chocolate;
+}
+
+@media (min-width: 500px) {
+.barva {background-color: lavender;
+    }
+}
+
+@media (min-width: 800px) {
+.barva {
+    background-color: mistyrose;
+    font-size: 90px;
+}
+}
